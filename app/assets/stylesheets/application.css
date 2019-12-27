@@ -13,6 +13,6 @@
  *= require_tree .
  *= require_self
  */
-//custom bootsrap variable must be or imported **before*bootsrap
+
 @import "bootstrap";
 
